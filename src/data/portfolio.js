@@ -1,7 +1,7 @@
 export const profile = {
   name: 'Yashaswi Srivastava',
   role: 'Full Stack Software Developer',
-  tagline: 'Backend-leaning engineer building reliable APIs, scalable .NET systems, and AI-powered workflows.',
+  tagline: 'Backend-learning engineer building reliable APIs, scalable .NET systems, and AI-powered workflows.',
   location: 'Mumbai, Maharashtra, India',
   email: 'yashaswi26022006@gmail.com',
   emailAlt: 'yashaswi1102@gmail.com',
@@ -24,9 +24,9 @@ export const profile = {
 
 export const stats = [
   { num: '3+', lbl: 'Years of Experience' },
-  { num: '150K+', lbl: 'Daily Transactions Supported' },
-  { num: '~70%', lbl: 'Report Latency Reduced' },
-  { num: '5+', lbl: 'Microservices Shipped' },
+  { num: 'AI-Ready', lbl: 'Workflow Automations' },
+  { num: '24/7', lbl: 'Production deployment support' },
+  { num: 'Optimized', lbl: '.NET Backend Systems' },
 ];
 
 export const aboutHighlights = [
